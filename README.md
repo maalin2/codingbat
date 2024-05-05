@@ -1,1 +1,1 @@
-# Coding bat solutions
+Coding bat solutions
