@@ -1,4 +1,4 @@
-import java.util.Math;
+import java.lang.Math;
 
 public int diff21(int n) {
 	int diff = Math.abs(n - 21);

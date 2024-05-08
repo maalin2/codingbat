@@ -1,4 +1,4 @@
-import java.util.Math;
+import java.lang.Math;
 
 public String minCat(String a, String b) {
 	if (a.length() < b.length()) {

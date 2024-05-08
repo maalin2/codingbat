@@ -1,4 +1,4 @@
-import java.util.Math;
+import java.lang.Math;
 
 public int close10(int a, int b) {
 	int aDiff = Math.abs(a - 10);

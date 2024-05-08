@@ -1,4 +1,4 @@
-import java.util.Math;
+import java.lang.Math;
 
 public Map<String, String> mapAB4(Map<String, String> map) {
 	if (map.containsKey("a") && map.containsKey("b")) {

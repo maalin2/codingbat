@@ -1,4 +1,4 @@
-import java.util.Math;
+import java.lang.Math;
 
 public int stringMatch(String a, String b) {
 	int pos = 0;

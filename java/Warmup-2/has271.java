@@ -1,4 +1,4 @@
-import java.util.Math;
+import java.lang.Math;
 
 public boolean has271(int[] nums) {
 	boolean b = false;
