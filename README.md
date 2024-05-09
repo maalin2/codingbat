@@ -1,1 +1,3 @@
-Coding bat solutions
+# Coding bat solutions
+
+solutions to codingbat problems
